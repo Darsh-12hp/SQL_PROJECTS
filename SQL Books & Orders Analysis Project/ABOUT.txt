@@ -1,0 +1,26 @@
+In this project, I performed comprehensive SQL-based analysis on a bookstore database containing tables such as Books, Customers, and Orders. 
+I wrote both basic and advanced SQL queries to extract insights related to book inventory, customer activity, and revenue performance.
+
+Key tasks included:
+
+Filtering books by genre (e.g., Fiction, Fantasy) and publication year.
+
+Retrieving customer data based on geographical filters (e.g., customers from Canada).
+
+Extracting time-based sales trends (e.g., orders in November 2023).
+
+Performing aggregation functions to calculate total stock, total revenue, and book sales per genre.
+
+Using SQL JOINs to connect multiple tables for accurate customer order data.
+
+Applying COALESCE() to handle missing or NULL values in key financial and inventory fields.
+
+Identifying top-selling books, most expensive items, and customers with the highest spending.
+
+Writing subqueries and grouping operations to get advanced metrics such as most frequently ordered book,
+ cities with high-spending customers,
+ and remaining stock after fulfilling orders.
+
+I also utilized sorting (ORDER BY), grouping (GROUP BY), 
+and filtering (HAVING) clauses extensively to handle real-world business requirements in the bookstore context. 
+This project helped strengthen my ability to design and optimize queries for both exploratory and operational reporting.
